@@ -51,3 +51,5 @@ Shortcuts:
 - [v1 -> v2 migration guide](https://vincit.github.io/objection.js/release-notes/migration.html)
 - [Contribution guide](https://vincit.github.io/objection.js/guide/contributing.html)
 - [Plugins](https://vincit.github.io/objection.js/guide/plugins.html)
+
+<!---SDI FORK-->
